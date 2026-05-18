@@ -1,4 +1,4 @@
-﻿10minutemail.com
+10minutemail.com
 1337x.to
 24.kg
 4freerussia.org
@@ -46,20 +46,8 @@ amplitude.com
 amx.com
 analog.com
 andrevi.ch
-anidub.com
 anilib.me
-anilibria.org
-anilibria.tv
-anilibria.uno
-anilibria.wtf
 animaunt.org
-anime-portal.su
-animebest.org
-animedia.tv
-animego.org
-animespirit.ru
-anistar.org
-anistars.ru
 annas-archive.org
 ansys.com
 anthropic.com
@@ -136,7 +124,6 @@ buf.build
 bufferbloat.net
 builds.parsec.app
 buymeacoffee.com
-byteoversea.com
 canva.com
 canva.dev
 capacitorjs.com
@@ -147,7 +134,6 @@ cbilling.eu
 cbilling.vip
 cdn.web-platform.io
 cdnbunny.org
-cdninstagram.com
 cdromance.org
 cdw.com
 censor.net
@@ -457,7 +443,6 @@ idelreal.org
 iditelesombase.org
 idolcomplex.com
 iedb.org
-ig.me
 ign.com
 iherb.com
 iichan.hk
@@ -470,7 +455,6 @@ indeed.com
 indiehackers.com
 infineon.com
 insearch.site
-instagram.com
 install.launcher.omniverse.nvidia.com
 intel.com
 intel.de
@@ -498,7 +482,6 @@ jskor.ill.in.ua
 jules.google
 jules.google.com
 jut-su.net
-jut.su
 jw-russia.org
 jw.org
 kaktus.media
@@ -578,9 +561,6 @@ mailo.com
 make.com
 makersuite.google.com
 malwarebytes.com
-mangadex.org
-mangahub.ru
-mangapark.net
 manus.im
 manybooks.net
 manyvids.com
@@ -622,11 +602,9 @@ mullvad.net
 multisim.com
 multporn.net
 muscdn.com
-musical.ly
 musicbrainz.org
 musixmatch.com
 mw2.wiki
-myanimelist.net
 mydoramy.club
 myheritage.com
 myjetbrains.com
@@ -904,8 +882,6 @@ sephora.com
 servarr.com
 severreal.org
 sfdcopens.com
-shikimori.me
-shikimori.one
 shinyhardware.co.uk
 shiza-project.com
 shop.gameloft.com
@@ -945,7 +921,6 @@ sora.com
 sotaproject.com
 soundcloud.cloud
 soundcloud.com
-sovetromantica.com
 spacelift.io
 speechs3proto2-pa.googleapis.com
 speedtest.net
@@ -1017,17 +992,6 @@ threads.net
 threema.ch
 ti.com
 tidal.com
-tik-tokapi.com
-tiktok.com
-tiktokcdn-eu.com
-tiktokcdn-us.com
-tiktokcdn.com
-tiktokd.net
-tiktokd.org
-tiktokv.com
-tiktokv.eu
-tiktokv.us
-tiktokw.us
 timberland.de
 tiptop-vpn.com
 tmdb-image-prod.b-cdn.net
@@ -1100,7 +1064,6 @@ verstka.media
 vesma.one
 vesma.today
 vesty.co.il
-viber.com
 vice.com
 vine.co
 vipergirls.to
@@ -1170,7 +1133,6 @@ yle.fi
 youtrack.cloud
 yt3.googleusercontent.com
 yting.com
-yummyani.me
 zahav.ru
 zapier.com
 zaxid.net
