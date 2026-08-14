@@ -394,6 +394,7 @@ health.autodesk.com
 healthline.com
 help.autodesk.com
 hentai-foundry.com
+hermes-agent.nousresearch.com
 herokucdn.com
 hetzner.com
 hitomi.la
