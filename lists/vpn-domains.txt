@@ -25,6 +25,7 @@ adobe.net
 ads-twitter.com
 adultmult.tv
 affinity.studio
+agent.nousresearch.com
 agents.media
 ahrefs.com
 ai-chat.bsg.brave.com
@@ -60,6 +61,7 @@ any.do
 aol.com
 api.autodesk.com
 api.jetbrains.ai
+api.nousresearch.com
 api.openai.com
 api.service-kp.com
 api.theins.info
@@ -176,6 +178,7 @@ coldfilm.xyz
 colta.ru
 community.sophos.com
 connect.ngrok-agent.com
+connector-gateway.nousresearch.com
 contabo.com
 coomer.su
 copilot.microsoft.com
@@ -339,6 +342,7 @@ g2a.com
 gagadget.com
 gamedistribution.com
 gamesrepack.com
+gateway.nousresearch.com
 gelbooru.com
 geller-pa.googleapis.com
 gemini.google
@@ -433,6 +437,8 @@ imgur.com
 important-stories.com
 indeed.com
 indiehackers.com
+inference-api.nousresearch.com
+inference.nousresearch.com
 infineon.com
 insearch.site
 install.launcher.omniverse.nvidia.com
@@ -649,6 +655,7 @@ omv-extras.org
 onfastspring.com
 onlinesim.io
 onshape.com
+openai-audio-gateway.nousresearch.com
 openai.com
 openh264.org
 openmedia.io
@@ -916,6 +923,7 @@ telegraf.by
 telegraf.news
 telegraph.co.uk
 telemetr.io
+telemetry.nousresearch.com
 tellapart.com
 tempmail.plus
 temu.com
@@ -940,7 +948,9 @@ tiptop-vpn.com
 tmdb-image-prod.b-cdn.net
 tmdb.com
 tmdb.org
+tool-gateway.nousresearch.com
 toolbox.app
+tools.nousresearch.com
 torproject.org
 trae.ai
 trailblazer.me
